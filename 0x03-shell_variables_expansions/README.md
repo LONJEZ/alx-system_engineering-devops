@@ -1,0 +1,1 @@
+**This exercise is about shell variables and expansions**
